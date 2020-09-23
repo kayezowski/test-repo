@@ -1,3 +1,3 @@
-# For Demo and learning purposes
+# For Demo and Learning Purposes
 
-Description here
+Description here...
